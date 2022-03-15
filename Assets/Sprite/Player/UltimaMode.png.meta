@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 0556bb28e1f4c5e4c980d1b8ead92e26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2924812349863033942
+    second: InputA1_1
+  - first:
+      213: -4380875388294067218
+    second: InputA1_2
+  - first:
+      213: 7946791070471886523
+    second: InputA1_3
+  - first:
+      213: 9223313951622837187
+    second: InputA2_1
+  - first:
+      213: 4013855870140162969
+    second: InputA2_2
+  - first:
+      213: -7837890477234850352
+    second: InputA3_1
+  - first:
+      213: 119656436799270588
+    second: InputA3_2
+  - first:
+      213: -556441455940110461
+    second: InputB2_1
+  - first:
+      213: -5291216276182062335
+    second: UltimaMode_8
+  - first:
+      213: -775239304848452998
+    second: UltimaMode_9
+  - first:
+      213: -8521023240498571827
+    second: UltimaMode_10
+  - first:
+      213: -1851359729661505343
+    second: UltimaMode_11
+  - first:
+      213: 6747434783248000710
+    second: InputB3_1
+  - first:
+      213: -5604565359611689013
+    second: InputB3_2
+  - first:
+      213: 2882183149838662564
+    second: InputB3_3
+  - first:
+      213: 4375207319620308105
+    second: UltimaMode_15
+  - first:
+      213: 9085570096902376264
+    second: UltimaMode_16
+  - first:
+      213: 546455782003843233
+    second: UltimaMode_17
+  - first:
+      213: 6214932275700715821
+    second: InputB2_2
+  - first:
+      213: -7500717278257216160
+    second: InputB2_3
+  - first:
+      213: 3338104425900896281
+    second: UltimaMode_20
+  - first:
+      213: 8409043219220865303
+    second: UltimaMode_21
+  - first:
+      213: -2782260227854651867
+    second: UltimaMode_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InputA1_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 288
+        width: 44
+        height: 58
+      alignment: 9
+      pivot: {x: 0.30997762, y: 0.5174734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cf24cf555079820800000000000000
+      internalID: 2924812349863033942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputA1_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 288
+        width: 54
+        height: 76
+      alignment: 9
+      pivot: {x: 0.2603932, y: 0.397265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb0b739b010433c0800000000000000
+      internalID: -4380875388294067218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputA1_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 288
+        width: 54
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4091147, y: 0.3748567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb619bbef5ca84e60800000000000000
+      internalID: 7946791070471886523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputA2_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 288
+        width: 45
+        height: 82
+      alignment: 9
+      pivot: {x: 0.56444633, y: 0.3748567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3326afb2bcfff70800000000000000
+      internalID: 9223313951622837187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputA2_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 288
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.24447021, y: 0.46911198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9932257c5a414b730800000000000000
+      internalID: 4013855870140162969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputA3_1
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 288
+        width: 54
+        height: 58
+      alignment: 9
+      pivot: {x: 0.24800053, y: 0.52307814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5fffb43283a3390800000000000000
+      internalID: -7837890477234850352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputA3_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 288
+        width: 65
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2117103, y: 0.51538557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe628235ea19a100800000000000000
+      internalID: 119656436799270588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputB3_1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 160
+        width: 54
+        height: 58
+      alignment: 9
+      pivot: {x: 0.27217612, y: 0.5158189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ac989f24b3ad50800000000000000
+      internalID: 6747434783248000710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputB3_2
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 160
+        width: 60
+        height: 58
+      alignment: 9
+      pivot: {x: 0.24023642, y: 0.5162872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c2ebef759832b0800000000000000
+      internalID: -5604565359611689013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputB3_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 160
+        width: 32
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4335842, y: 0.4212833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abffb7ed429ff720800000000000000
+      internalID: 2882183149838662564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputB2_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 32
+        width: 60
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2554723, y: 0.5193304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2150440affdf3650800000000000000
+      internalID: 6214932275700715821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputB2_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 32
+        width: 32
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4576931, y: 0.42165172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06508dc306918e790800000000000000
+      internalID: -7500717278257216160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InputB2_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 32
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 0.2757478, y: 0.5064147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3877368a17f1748f0800000000000000
+      internalID: -556441455940110461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
